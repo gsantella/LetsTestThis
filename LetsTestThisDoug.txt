@@ -1,3 +1,7 @@
 Doug
+<<<<<<< HEAD
 
 I am really enjoying this!!!
+=======
+This is not Doug changing this.
+>>>>>>> a72c6ad84a0a7f7fefb3d41138d8b49b058b333a

@@ -1,3 +1,7 @@
 Bob
 
+<<<<<<< HEAD
 Rubix!
+=======
+This is MY file!!!
+>>>>>>> a72c6ad84a0a7f7fefb3d41138d8b49b058b333a
